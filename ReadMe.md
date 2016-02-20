@@ -33,3 +33,5 @@ Output example:
     }
 }
 ```
+#License
+Copyright 2016 Go Hosohara, Licenced under the MIT license.
