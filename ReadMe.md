@@ -26,8 +26,8 @@ Output example:
         },
         "foo.txt": {
             "IsDir": true,
-            "Path": "/home/user1/test/test1d",
-            "Name": "test1d",
+            "Path": "/home/user1/test/foo.txt",
+            "Name": "foo.txt",
             "Children": null
         }
     }
