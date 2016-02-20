@@ -2,7 +2,7 @@
 
 Simple program which show directory information by JSON format.
 
-Usage: godir[directory]
+Usage: godir [directory]
 
 Output example: 
 ```json
